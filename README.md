@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
