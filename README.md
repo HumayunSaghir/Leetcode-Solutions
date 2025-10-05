@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -62,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
