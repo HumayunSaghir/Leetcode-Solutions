@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0136-single-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
