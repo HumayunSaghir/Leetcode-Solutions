@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
