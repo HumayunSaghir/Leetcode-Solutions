@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
