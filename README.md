@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [2383-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
