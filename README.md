@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
