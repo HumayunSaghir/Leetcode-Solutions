@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
