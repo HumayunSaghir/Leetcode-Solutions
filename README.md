@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
