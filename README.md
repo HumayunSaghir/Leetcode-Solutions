@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
