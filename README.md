@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
