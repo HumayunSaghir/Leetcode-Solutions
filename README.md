@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1254-deepest-leaves-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1254-deepest-leaves-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1254-deepest-leaves-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
