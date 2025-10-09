@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1072-next-greater-node-in-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
