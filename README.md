@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Monotonic Stack
 |  |
 | ------- |
