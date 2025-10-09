@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
