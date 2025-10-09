@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0933-increasing-order-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0933-increasing-order-search-tree](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
