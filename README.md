@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [1677-matrix-diagonal-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
+| [1677-matrix-diagonal-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
