@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Recursion
