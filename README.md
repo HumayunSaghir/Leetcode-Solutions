@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1666-make-the-string-great](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
