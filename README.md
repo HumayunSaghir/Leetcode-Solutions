@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1666-make-the-string-great](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
 | ------- |
