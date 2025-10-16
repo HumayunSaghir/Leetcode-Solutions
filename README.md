@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
 ## Trie
 |  |
 | ------- |
