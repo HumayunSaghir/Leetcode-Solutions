@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1961-maximum-ice-cream-bars](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1961-maximum-ice-cream-bars](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -454,10 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1961-maximum-ice-cream-bars](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1961-maximum-ice-cream-bars](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Binary Indexed Tree
 |  |
 | ------- |
