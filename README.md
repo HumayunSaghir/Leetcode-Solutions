@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Trie
 |  |
 | ------- |
