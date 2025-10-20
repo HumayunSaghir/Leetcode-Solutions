@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1961-maximum-ice-cream-bars](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [2048-build-array-from-permutation](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [2048-build-array-from-permutation](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
