@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2048-build-array-from-permutation](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Trie
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Stack
 |  |
 | ------- |
