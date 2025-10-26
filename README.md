@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 ## Recursion
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
