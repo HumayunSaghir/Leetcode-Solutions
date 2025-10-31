@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Linked List
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2442-number-of-arithmetic-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Stack
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [2442-number-of-arithmetic-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Number Theory
 |  |
 | ------- |
