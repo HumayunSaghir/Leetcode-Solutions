@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
