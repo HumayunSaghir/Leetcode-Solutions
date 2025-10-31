@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
 | ------- |
