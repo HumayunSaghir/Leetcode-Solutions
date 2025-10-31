@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2825-minimize-string-length](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2825-minimize-string-length](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
