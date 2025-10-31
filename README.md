@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3778-transform-array-by-parity](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2383-add-two-integers) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
