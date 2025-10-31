@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
