@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2383-add-two-integers) |
+| [2507-number-of-common-factors](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -511,11 +512,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2507-number-of-common-factors](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2507-number-of-common-factors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
