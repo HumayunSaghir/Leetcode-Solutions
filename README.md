@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2714-left-and-right-sum-differences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2331-intersection-of-multiple-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2836-neither-minimum-nor-maximum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
+| [2631-sort-the-students-by-their-kth-score](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Greedy
 |  |
 | ------- |
