@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -650,4 +651,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2714-left-and-right-sum-differences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
