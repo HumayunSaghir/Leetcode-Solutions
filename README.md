@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3194-find-words-containing-character](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3194-find-words-containing-character](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
