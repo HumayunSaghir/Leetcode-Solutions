@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [2886-faulty-keyboard](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
