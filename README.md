@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1310-watering-plants](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1310-watering-plants) |
 | [1319-unique-number-of-occurrences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1319-unique-number-of-occurrences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
