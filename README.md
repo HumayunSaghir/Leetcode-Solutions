@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Linked List
 |  |
 | ------- |
