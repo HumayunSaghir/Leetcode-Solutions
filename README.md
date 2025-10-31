@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2427-first-letter-to-appear-twice](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3636-check-balanced-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3636-check-balanced-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
