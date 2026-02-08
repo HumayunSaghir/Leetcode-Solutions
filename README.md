@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2383-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/HumayunSaghir/Leetcode-Solutions/tree/master/2469-convert-the-temperature) |
